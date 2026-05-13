@@ -1,0 +1,4 @@
+2026-04-22T09:30:46+00:00 INFO Payment gateway enabled: "Thanh toán bằng chuyển khoản ngân hàng (quét mã QR)"
+2026-04-22T09:41:30+00:00 INFO Payment gateway enabled: "Chuyển khoản ngân hàng (Quét mã VietQR)"
+2026-04-22T10:41:39+00:00 INFO Payment gateway enabled: "Chuyển khoản ngân hàng trực tiếp"
+2026-04-22T10:41:43+00:00 INFO Payment gateway enabled: "Thanh toán khi nhận hàng"
