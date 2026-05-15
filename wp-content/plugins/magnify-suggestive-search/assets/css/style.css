@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.notice.is-dismissible.mnssp {
+    padding: unset;
+    border: unset;
+}
+#toplevel_page_mnssp_dashboard .wp-submenu li:has(a[href="admin.php?page=mnssp_edit_search_bar"]) { 
+    display: none;
+}
+ul#adminmenu #toplevel_page_mnssp_templates:hover div.wp-menu-image:before {
+    color: #fff !important;
+}
+ul#adminmenu #toplevel_page_mnssp_templates a:hover .wp-menu-name {
+    color: #fff;
+}
+ul#adminmenu #toplevel_page_mnssp_templates a:hover {
+    box-shadow: inset 4px 0 0 0 #fff;
+}
+
+#adminmenu #toplevel_page_mnssp_templates div.wp-menu-image::before, #toplevel_page_mnssp_templates .wp-menu-name {
+    color: #000;
+}
+ul#adminmenu #toplevel_page_mnssp_templates, ul#adminmenu #toplevel_page_mnssp_templates .current {
+    background-color: #fcb03b !important;
+}
+.mnssp-notice-heading {
+    flex-basis: 40%;
+    margin-left: 13em;
+    padding-top: 40px;
+}
+.mnssp-notice-heading h1 {
+    font-family: 'Bebas Neue';
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 86px;
+    color: #2673FF;
+}
+.mnssp-notice-banner-wrap {
+    display: flex;
+    background-size: 100% 100%;
+}
+.mnssp-notice-heading p.mnssp-sub-head {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #2673FF;
+    width: fit-content;
+    padding: 5px 60px;
+    color: #fff;
+    border-radius: 9px;
+    box-shadow: 0px 4px 8px rgb(0 0 0 / 20%);
+}
+
+.mnssp-notice-heading p.mnssp-sub-head span {
+    font-family: 'Bebas Neue';
+    font-weight: 700;
+    font-size: 33px;
+}
+.mnssp-notice-heading .mnssp-notice-btn a {
+    display: block;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+.mnssp-notice-btn {
+    display: flex;
+    gap: 20px;
+}
+
+.mnssp-notice-btn .mnssp-buy-btn {
+    background-color: #f15b26;
+    color: #fff;
+}
+
+.mnssp-notice-btn .mnssp-templates-btn {
+    background-color: #fcb03b;
+    color: #000;
+}
+
+.mnssp-notice-heading .mnssp-notice-btn a {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 28px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: unset;
+    padding: 10px 30px 10px 30px;
+    width: fit-content;
+    border-radius: 7px;
+    box-shadow: 0px 4px 8px rgb(0 0 0 / 20%);
+}
+
+.wp-core-ui .notice.is-dismissible {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.mnssp-border-div {
+    background-color: #2673FF;
+    padding: 0 12px 12px;
+    border-radius: 0px 0px 20px 20px;
+    position: relative;
+    z-index: 0;
+}
+
+.mnssp-price-tag {
+    margin-left: 16px;
+    position: relative;
+    z-index: 0;
+}
+
+.mnssp-price-tag p {
+    font-family: 'Bebas Neue';
+    font-weight: 400;
+    font-size: 43px;
+    margin-top: 0;
+    color: #fff;
+    margin-bottom: 0;
+    border: 1px solid #fff;
+    border-top: unset;
+    padding: 40px 12px;
+    border-radius: 0px 0px 15px 15px;
+}
+.mnssp-price-tag .mnssp-add-div {
+    margin-top: 35px;
+    position: relative;
+}
+.mnssp-price-tag {
+    margin-left: 16px;
+}
+.mnssp-border-div::before {
+    border-top: 30px solid transparent;
+    border-right: 20px solid #0047C9;
+    position: absolute;
+    content: '';
+    left: 0;
+    transform: translateX(-20px);
+    top: 0;
+}
+.mnssp-border-div::after {
+    border-top: 30px solid transparent;
+    border-left: 20px solid #0047C9;
+    position: absolute;
+    content: '';
+    right: 0;
+    transform: translateX(20px);
+    top: 0;
+}
+
+.mnssp-price-tag .mnssp-add-div:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #D4D4D4;
+    content: '';
+    width: 220px;
+    height: 1px;
+    z-index: -1;
+    transform: translate(-42px, 29px);
+}
+
+@media (max-width: 1599px) and (min-width: 1400px) {
+    .mnssp-notice-heading {
+        flex-basis: 50%;
+        margin-left: 8em;
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 1399px) and (min-width: 1200px) {
+    .mnssp-notice-heading {
+        margin-left: 8em;
+        flex-basis: 50%;
+    }
+    .mnssp-notice-heading p.mnssp-sub-head {
+        padding: 5px 20px;
+    }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+    .mnssp-notice-heading {
+        flex-basis: 60%;
+        margin-left: 5em;
+    }
+    .mnssp-notice-heading h1 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .mnssp-notice-heading p.mnssp-sub-head {
+        padding: 5px 30px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .mnssp-notice-heading { 
+        flex-basis: 100%;
+        margin-left: 3em;
+        margin-right: 3em;
+        text-align: center;
+    }
+    .mnssp-notice-heading p.mnssp-sub-head {
+        margin: auto;
+    }
+    .mnssp-notice-heading .mnssp-notice-btn a {
+        margin: 22px auto 5px;
+    }
+    .mnssp-notice-banner-wrap {
+        flex-flow: column;
+        background-color: #fff !important;
+        background-image: unset !important;
+    }
+    .mnssp-price-tag {
+        width: fit-content;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .mnssp-notice-heading { 
+        flex-basis: 100%;
+        margin-left: 3em;
+        margin-right: 3em;
+        text-align: center;
+    }
+    .mnssp-notice-heading p.mnssp-sub-head {
+        margin: auto;
+    }
+    .mnssp-notice-heading .mnssp-notice-btn a {
+        margin: 22px auto 5px;
+    }
+    .mnssp-notice-banner-wrap {
+        flex-flow: column;
+        background-color: #fff !important;
+        background-image: unset !important;
+    }
+    .mnssp-price-tag {
+        width: fit-content;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}

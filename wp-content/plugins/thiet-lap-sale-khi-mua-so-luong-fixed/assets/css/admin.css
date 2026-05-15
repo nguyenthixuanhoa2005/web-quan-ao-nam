@@ -1,0 +1,151 @@
+/* Admin Settings Page Styles */
+.wrap h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.pqsale-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.pqsale-form-wrapper,
+.pqsale-list-wrapper {
+    background: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.pqsale-form-wrapper h2,
+.pqsale-list-wrapper h2 {
+    margin-top: 0;
+    color: #23282d;
+    border-bottom: 2px solid #0073aa;
+    padding-bottom: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #23282d;
+}
+
+.form-group input,
+.form-group select {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    background: white;
+    color: #23282d;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+    outline: none;
+    border-color: #0073aa;
+    box-shadow: 0 0 0 1px #0073aa;
+}
+
+.form-actions {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.form-actions .button {
+    padding: 8px 16px;
+}
+
+/* Table Styles */
+.widefat {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.widefat thead th {
+    background: #f1f1f1;
+    padding: 10px;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 2px solid #ddd;
+}
+
+.widefat tbody td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.widefat tbody tr:hover {
+    background: #f9f9f9;
+}
+
+.widefat .button-small {
+    padding: 4px 8px;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.button-link-delete {
+    color: #dc3545 !important;
+}
+
+.button-link-delete:hover {
+    color: #c82333 !important;
+}
+
+/* Responsive */
+@media (max-width: 1200px) {
+    .pqsale-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Status Badge */
+.status-active {
+    background: #d4edda;
+    color: #155724;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.status-inactive {
+    background: #f8d7da;
+    color: #721c24;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.pqsale-settings-form .form-group:last-child {
+    margin-bottom: 0;
+}
+
+/* Alert Styles */
+.notice {
+    margin: 20px 0;
+}
+
+.notice-success {
+    background: #d4edda;
+    border: 1px solid #c3e6cb;
+    color: #155724;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.notice p {
+    margin: 0;
+}

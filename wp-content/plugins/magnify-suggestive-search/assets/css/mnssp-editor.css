@@ -1,0 +1,15 @@
+.mnssp-bundle-btn-wrap {
+    background-color: #0053E9;
+    border-radius: 7px;
+    box-shadow: 0px 4px 8px rgb(0 0 0 / 20%);
+    padding: 8px 10px;
+    cursor: pointer;
+}
+.mnssp-bundle-btn-wrap span {
+    text-align: left;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}

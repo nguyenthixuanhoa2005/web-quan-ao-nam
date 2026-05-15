@@ -1,0 +1,106 @@
+# Vietnamese translation for Product Quantity Sale Plugin
+# Copyright (C) 2024
+# This file is distributed under the same license as the Product Quantity Sale plugin.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Quantity Sale 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: thiet-lap-sale-khi-mua-so-luong.php
+msgid "Thiết Lập Sale Khi Mua Số Lượng"
+msgstr "Thiết Lập Sale Khi Mua Số Lượng"
+
+msgid "Plugin để thiết lập giảm giá theo số lượng sản phẩm được chọn"
+msgstr "Plugin để thiết lập giảm giá theo số lượng sản phẩm được chọn"
+
+#: includes/class-admin.php
+msgid "Sale Số Lượng"
+msgstr "Sale Số Lượng"
+
+msgid "Thiết Lập Sale Theo Số Lượng Sản Phẩm"
+msgstr "Thiết Lập Sale Theo Số Lượng Sản Phẩm"
+
+msgid "Thêm/Sửa Cài Đặt Sale"
+msgstr "Thêm/Sửa Cài Đặt Sale"
+
+msgid "Tên Cài Đặt:"
+msgstr "Tên Cài Đặt:"
+
+msgid "Số Lượng Sản Phẩm Tối Thiểu:"
+msgstr "Số Lượng Sản Phẩm Tối Thiểu:"
+
+msgid "Loại Giảm Giá:"
+msgstr "Loại Giảm Giá:"
+
+msgid "Phần Trăm (%)"
+msgstr "Phần Trăm (%)"
+
+msgid "Số Tiền (đ)"
+msgstr "Số Tiền (đ)"
+
+msgid "Bắt Đầu Từ:"
+msgstr "Bắt Đầu Từ:"
+
+msgid "Kết Thúc:"
+msgstr "Kết Thúc:"
+
+msgid "Số Lần Sử Dụng Tối Đa (0 = Không Giới Hạn):"
+msgstr "Số Lần Sử Dụng Tối Đa (0 = Không Giới Hạn):"
+
+msgid "Lưu Cài Đặt"
+msgstr "Lưu Cài Đặt"
+
+msgid "Danh Sách Cài Đặt"
+msgstr "Danh Sách Cài Đặt"
+
+msgid "Tên"
+msgstr "Tên"
+
+msgid "Số Lượng Tối Thiểu"
+msgstr "Số Lượng Tối Thiểu"
+
+msgid "Loại Giảm"
+msgstr "Loại Giảm"
+
+msgid "Giá Trị"
+msgstr "Giá Trị"
+
+msgid "Từ Ngày"
+msgstr "Từ Ngày"
+
+msgid "Đến Ngày"
+msgstr "Đến Ngày"
+
+msgid "Lần Dùng"
+msgstr "Lần Dùng"
+
+msgid "Hành Động"
+msgstr "Hành Động"
+
+msgid "Sửa"
+msgstr "Sửa"
+
+msgid "Xóa"
+msgstr "Xóa"
+
+msgid "Chưa có cài đặt sale nào. Hãy thêm cái đặt đầu tiên!"
+msgstr "Chưa có cài đặt sale nào. Hãy thêm cái đặt đầu tiên!"
+
+#: includes/class-frontend.php
+msgid "Giảm giá"
+msgstr "Giảm giá"
+
+msgid "Chọn thêm %d sản phẩm để được giảm giá!"
+msgstr "Chọn thêm %d sản phẩm để được giảm giá!"
+
+msgid "✓ Bạn đã đạt điều kiện! Giảm giá đã được áp dụng."
+msgstr "✓ Bạn đã đạt điều kiện! Giảm giá đã được áp dụng."

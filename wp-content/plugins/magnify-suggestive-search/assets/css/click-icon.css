@@ -1,0 +1,49 @@
+ .mnssp-wrap {
+   width: 0px;
+   height: 50px;
+   background: #000;
+   line-height: 45px;
+   padding-right: 50px;
+   border-radius: 5px;
+   transition: all 0.5s ease;
+   position: relative
+ }
+
+ #click-icon .search-input {
+   border: 0;
+   background: transparent;
+   width: 0%;
+   outline: none;
+   font-family: sans-serif;
+   font-size: 18px;
+   color: #fff;
+   font-style: italic;
+   transition: all 0.3s ease;
+   position: relative;
+ }
+
+ .mnssp-wrap i {
+   color: #fff;
+   position: absolute;
+   right: 15px;
+   top: 18px;
+   font-size: 18px;
+   cursor: pointer;
+ }
+
+ .mnssp-wrap.active {
+   width: 250px;
+   padding-left: 25px;
+   transition: all 0.5s ease;
+ }
+
+ #click-icon .search-input.active {
+   width: 98%;
+   padding-left: 5px;
+   transition: all 0.5s 0.8s ease;
+   margin-top: 14px;
+ }
+
+ #click-icon .search-input::placeholder {
+   color: #fff;
+ }

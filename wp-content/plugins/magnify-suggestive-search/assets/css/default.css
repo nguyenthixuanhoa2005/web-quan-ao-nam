@@ -1,0 +1,43 @@
+
+#default-serach {
+  display: flex;
+  background: #fff;
+  border-radius: 4px;
+  position: relative;
+  border: 1px solid;
+  border-color: #e7f5ff;
+  justify-content: space-between;
+}
+
+#default-serach input {
+  width: 100%;
+  line-height: 20px;
+  border: none !important;
+  font-size: 14px;
+  width: 100%;
+  padding: 0.3rem 0.8rem;
+  margin: 0;
+  border-radius: 4px;
+}
+
+#default-serach :focus-visible {
+  outline: none
+}
+
+#default-serach .search-button {
+  width: max-content;
+  background: #000;
+  color: #FFF;
+  border-radius: 5px !important;
+  /* height: 35px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+  padding: 10px 12px;
+}
+

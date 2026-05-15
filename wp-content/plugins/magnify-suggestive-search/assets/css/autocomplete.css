@@ -1,0 +1,53 @@
+.ui-menu-item {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+  background: #f3eded !important;
+  border: none !important;
+  color: #000 !important;
+}
+
+#mnssp-autocomplete-form {
+  max-width: 550px;
+  display: flex;
+  background: #fff;
+  border-radius: 4px;
+  position: relative;
+  border: 1px solid;
+  border-color: #e7f5ff;
+  justify-content: space-between;
+}
+
+#mnssp-autocomplete-form input {
+  width: 100%;
+  line-height: 20px;
+  border: none !important;
+  font-size: 14px;
+  width: 100%;
+  padding: 0.3rem 0.8rem;
+  margin: 0;
+  border-radius: 4px;
+}
+
+#mnssp-autocomplete-form :focus-visible {
+  outline: none
+}
+
+#mnssp-autocomplete-form .search-button {
+  width: max-content;
+  background: #000;
+  color: #FFF;
+  border-radius: 5px !important;
+  /* height: 35px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+  padding: 10px 12px;
+}
