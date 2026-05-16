@@ -169,25 +169,25 @@ define('DB_HOST', 'localhost');
 <img width="606" height="338" alt="image" src="https://github.com/user-attachments/assets/a959d80e-fd9e-4b94-b68b-e6797332d0b9" />
 
 
-###Giao diện đăng nhập
+### Giao diện đăng nhập
 <img width="605" height="318" alt="image" src="https://github.com/user-attachments/assets/a755d94f-fb8c-4324-a61a-75e12c66baf0" />
 
-###Giao diện quên mật khẩu
+### Giao diện quên mật khẩu
 <img width="607" height="297" alt="image" src="https://github.com/user-attachments/assets/3e245c9f-043b-4c9f-8253-cd571b3dca18" />
 
-###Giao diện đăng ký
+### Giao diện đăng ký
 <img width="605" height="330" alt="image" src="https://github.com/user-attachments/assets/299dad10-b347-4568-8bd1-5548ea615a69" />
 
-###Giao diện trang sản phẩm
+### Giao diện trang sản phẩm
 <img width="606" height="322" alt="image" src="https://github.com/user-attachments/assets/f5729eae-b6cd-44c1-945c-ea20bcea8b5c" />
 
-###Giao diện khi tìm kiếm sản phẩm
+### Giao diện khi tìm kiếm sản phẩm
 <img width="606" height="300" alt="image" src="https://github.com/user-attachments/assets/a565913d-13a2-4c92-8158-4eb7399918db" />
 
-###Giao diện khi trang chi tiết sản phẩm
+### Giao diện khi trang chi tiết sản phẩm
 <img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/eb328426-7cf1-4a20-943f-c9ee310f216a" />
 
-###Giao diện đánh giá đơn hàng
+### Giao diện đánh giá đơn hàng
 <img width="606" height="332" alt="image" src="https://github.com/user-attachments/assets/4f144746-1f2f-4fb0-80ae-dce62e27bec8" />
 
 ###Giao diện trang tin tức 
@@ -197,7 +197,7 @@ define('DB_HOST', 'localhost');
 
 <img width="604" height="314" alt="image" src="https://github.com/user-attachments/assets/0279420d-eeaf-4452-b36f-c3c454c21c7a" />
 
-###Giao diện trang Về chúng tôi
+### Giao diện trang Về chúng tôi
 <img width="605" height="341" alt="image" src="https://github.com/user-attachments/assets/ebd7787d-e316-4cc2-a354-f1770aa1e793" />
 
 <img width="606" height="319" alt="image" src="https://github.com/user-attachments/assets/05e01558-1b10-4b7b-8f62-ba738f721f8d" />
@@ -205,53 +205,53 @@ define('DB_HOST', 'localhost');
 <img width="605" height="341" alt="image" src="https://github.com/user-attachments/assets/8d547fac-94f9-469c-b019-9e84525402ac" />
 
 
-###Giao diện trang liên hệ
+### Giao diện trang liên hệ
 <img width="604" height="302" alt="image" src="https://github.com/user-attachments/assets/ee48cad4-76ce-404f-9c4d-abdd468740ba" />
 
-###Giao diện trang tài khoản
+### Giao diện trang tài khoản
 <img width="606" height="303" alt="image" src="https://github.com/user-attachments/assets/e775dc6a-48af-423a-857b-e9decb337802" />
 
 <img width="605" height="350" alt="image" src="https://github.com/user-attachments/assets/64cf4169-b7f2-4029-b86b-7226d3944c70" />
 
 
-###Giao diện trang giỏ hàng: Thanh tiến trình + Checkbox cho sản phẩm
+### Giao diện trang giỏ hàng: Thanh tiến trình + Checkbox cho sản phẩm
 
 <img width="606" height="302" alt="image" src="https://github.com/user-attachments/assets/5ef42080-b4e0-4656-a85b-dc8ff1b3afae" />
 
-###Giao diện trang thanh toán sau khi đổi địa chỉ thành địa chỉ tại Việt Nam
+### Giao diện trang thanh toán sau khi đổi địa chỉ thành địa chỉ tại Việt Nam
 
 <img width="606" height="309" alt="image" src="https://github.com/user-attachments/assets/ab0a5f74-66c3-42f4-aa9b-16ecf6c7285d" />
 
 
-###Giao diện trang thanh toán qua ví momo + VNPay
+### Giao diện trang thanh toán qua ví momo + VNPay
 
 <img width="606" height="344" alt="image" src="https://github.com/user-attachments/assets/4e701d17-68fe-4ad0-af1b-fa6c793e1cfa" />
 
-###Giao diện trang thanh toán qua VietQR
+### Giao diện trang thanh toán qua VietQR
 <img width="604" height="299" alt="image" src="https://github.com/user-attachments/assets/aaf319a0-a3a7-4cac-aa42-1d58e7e01620" />
 ---> THANH TOÁN THÀNH CÔNG:
 <img width="605" height="321" alt="image" src="https://github.com/user-attachments/assets/b4b46b7e-0962-4306-b7ff-5c127ad0193a" />
-###Giao diện trang thanh toán qua Sepay
+### Giao diện trang thanh toán qua Sepay
 <img width="1057" height="648" alt="image" src="https://github.com/user-attachments/assets/e29fd361-e5da-4906-9ae1-484e8b20225e" />
 ---> THANH TOÁN THÀNH CÔNG:
 <img width="605" height="328" alt="image" src="https://github.com/user-attachments/assets/bf45ba2a-cec3-4b5e-8eda-44287d91a192" />
 
 
-###Giao diện trang thanh toán qua PayOS
+### Giao diện trang thanh toán qua PayOS
 <img width="915" height="588" alt="image" src="https://github.com/user-attachments/assets/dd5ef33e-d9c9-4539-aae6-72a324201bbe" />
 
 ---> THANH TOÁN THÀNH CÔNG:
 <img width="605" height="327" alt="image" src="https://github.com/user-attachments/assets/22b12099-f195-43cc-b9cd-2050bad9bc64" />
 
-###KẾT QUẢ EMAIL KHÁCH XÁC NHẬN ĐẶT HÀNG 
+### KẾT QUẢ EMAIL KHÁCH XÁC NHẬN ĐẶT HÀNG 
 <img width="606" height="305" alt="image" src="https://github.com/user-attachments/assets/04b76961-1c1d-40c0-b505-b1aa88b18f75" />
 
 <img width="606" height="373" alt="image" src="https://github.com/user-attachments/assets/0fecaea4-4754-4911-9027-d7d776ac0325" />
 
-###KẾT QUẢ EMAIL ADMIN XÁC NHẬN ĐƠN KHÁCH ĐẶT
+### KẾT QUẢ EMAIL ADMIN XÁC NHẬN ĐƠN KHÁCH ĐẶT
 <img width="606" height="362" alt="image" src="https://github.com/user-attachments/assets/d78e3ba3-3d13-4c2d-aa93-accadf1e2b91" />
 
-###THANH TIẾN TRÌNH (VS PLUGIN MÃ SALE 3 SẢN PHẨM GIẢM GẦN 20%)
+### THANH TIẾN TRÌNH (VS PLUGIN MÃ SALE 3 SẢN PHẨM GIẢM GẦN 20%)
 --> KHI ADD 3 SẢN PHẨM VÀO GIỎ:
 <img width="606" height="325" alt="image" src="https://github.com/user-attachments/assets/52350824-0f8c-4c18-a441-457ad2901eed" />
 
