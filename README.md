@@ -190,7 +190,7 @@ define('DB_HOST', 'localhost');
 ### Giao diện đánh giá đơn hàng
 <img width="606" height="332" alt="image" src="https://github.com/user-attachments/assets/4f144746-1f2f-4fb0-80ae-dce62e27bec8" />
 
-###Giao diện trang tin tức 
+### Giao diện trang tin tức 
 <img width="605" height="350" alt="image" src="https://github.com/user-attachments/assets/efb8b477-5383-4937-b301-fbeceb0d60ef" />
 
 <img width="606" height="361" alt="image" src="https://github.com/user-attachments/assets/5763f829-ee51-4e93-ad2a-f88aa4de7c28" />
