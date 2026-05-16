@@ -266,7 +266,8 @@ define('DB_HOST', 'localhost');
 
 ## 🎥 Video demo
 
-🎬 https://drive.google.com/drive/folders/10pP82xKOUdJPdUK9bl6-osY80i3PX3LT?usp=sharing
+🎬 https://drive.google.com/drive/folders/1fKoSFBh__vP6nD9dK3B7V1tG9pzE8FRu?usp=drive_link
+
 
 ---
 
